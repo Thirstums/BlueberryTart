@@ -9,12 +9,12 @@
 
 nav{
     height: 5vh;
-    width: 70vw;
-    min-width: 600px;
+    width: 3vw;
+    min-width: 400px;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    margin-left: 50%;
+    margin-left: 10%;
 }
 
 a{
