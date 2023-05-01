@@ -1,3 +1,16 @@
+# BlueberryTart
+
+
+![BlueberryTart](../BlueberryTart/src/assets/Thirsty_BlueberryTart.png)
+
+BlueberryTart is the official Website of Thirstums
+
+It showcases all projects Thirstums/ Thirsty has ever mad and worked on
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
