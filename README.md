@@ -1,6 +1,6 @@
 # BlueberryTart
 
-![BlueberryTart](src/assets/BlueberryTartLogo.png)
+![BlueberryTart](src/assets/BlueberryTartLogo.png) ![BlueberryTart2](src/assets/Thirsty_BlueberryTart.png)
 
 BlueberryTart is the official Website of Thirstums
 
