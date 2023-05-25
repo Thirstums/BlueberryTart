@@ -9,8 +9,8 @@ function HomePage() {
                 <div>
 
                 <Image
-                src="/Thirsty_BlueberryTart.png"
-                 alt="Navbar image"
+                src="/BlueberryTartLogo.png"
+                 alt="BlueberryTartLogo"
                  width={500}
                  height={500}
         
