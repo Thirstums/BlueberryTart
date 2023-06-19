@@ -1,5 +1,10 @@
 function recepies() {
-  return <div> Recepies</div>;
+  return (
+    <div>
+      {" "}
+      <h1>Recepies</h1>
+    </div>
+  );
 }
 
 export default recepies;

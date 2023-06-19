@@ -3,6 +3,6 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 const Footer = () => {
-  return <div>About BlueberryTart By</div>;
+  return <div>About BlueberryTart</div>;
 };
 export default Footer;
