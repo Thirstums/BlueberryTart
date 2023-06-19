@@ -4,7 +4,7 @@
 
 BlueberryTart is the official Website of Thirstums
 
-It showcases all projects Thirstums/ Thirsty has ever mad and worked on
+It showcases all projects Thirstums/ Thirsty has ever made and worked on
 
 
 ## In Progress Projects
