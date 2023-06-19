@@ -35,7 +35,7 @@ a::after {
   transition: 0.3s;
 }
 a:hover {
-  color: #ffffff;
+  color: rgb(120, 120, 192);
 }
 
 a:hover::after {

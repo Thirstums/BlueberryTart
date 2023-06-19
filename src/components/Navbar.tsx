@@ -3,6 +3,18 @@ import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 const Navbar = () => {
+
+
+  function handleClick() {
+let bodyStyle = document.body.style;
+if (bodyStyle.backgroundColor === 'black'){
+  bodyStyle.backgroundColor = 'white';
+  bodyStyle.color = 'black';
+} else {
+  bodyStyle.backgroundColor = 'black';
+  bodyStyle.color = 'white';
+}
+  }
   return (
     <main>
       <div className="{navbar.container}">
@@ -26,6 +38,7 @@ const Navbar = () => {
               {" "}
               <Link href="/recepies">Recepies</Link>
             </a>
+            <button onClick={() => handleClick()}>Lights on/off</button>
           </nav>
         </main>
       </div>
