@@ -1,27 +1,15 @@
-import { Button } from "../components/Button"
+import { Button } from "../components/Button";
 import Image from "next/image";
 
 function HomePage() {
-    return(
-        <main>
-             
-                <div >Welcome to BlueberryTart </div> 
-                <div>
+  return (
+    <main>
+      <div>
+        <h1> Welcome to BlueberryTart </h1>{" "}
+      </div>
+      <div></div>
+    </main>
+  );
+}
 
-                <Image
-                src="/BlueberryTartLogo.png"
-                 alt="BlueberryTartLogo"
-                 width={500}
-                 height={500}
-        
-                />
-                </div>
-                
-      
-        </main>
-       
-
-    ) 
-  }
-  
-  export default HomePage
+export default HomePage;

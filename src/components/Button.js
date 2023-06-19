@@ -1,4 +1,4 @@
-import styles from './Button.module.css'
+import styles from "./Button.module.css";
 
 export function Button() {
   return (
@@ -10,5 +10,5 @@ export function Button() {
     >
       Destroy
     </button>
-  )
+  );
 }
