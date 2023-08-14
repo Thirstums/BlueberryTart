@@ -36,6 +36,10 @@ if (bodyStyle.backgroundColor === 'black'){
             </a>
             <a>
               {" "}
+              <Link href="/games">Games</Link>
+            </a>
+            <a>
+              {" "}
               <Link href="/recepies">Recepies</Link>
             </a>
             <button onClick={() => handleClick()}>Lights on/off</button>

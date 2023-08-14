@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { ISquareProps } from "./ISquareProps";
 
 export default function Square({value, onSquareClick} : any) {

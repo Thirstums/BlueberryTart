@@ -12,8 +12,6 @@ export default function Board() {
   } else{
     status = "Next player: " + (xIsNext ? "X" : "O")
   }
-
-
   
   function handleClick(s:any) {
     if (squares[s] || calculateWinner(squares)) {
