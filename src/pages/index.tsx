@@ -9,7 +9,6 @@ function HomePage() {
     <main>
       <div>
         <h1> Welcome to BlueberryTart </h1>{" "}
-        <Board/>
       </div>
       <div></div>
     </main>
