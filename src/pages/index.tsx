@@ -1,9 +1,3 @@
-import Square from "@/components/TikTakToe/Square/Square";
-
-import Image from "next/image";
-
-import Board from "@/components/TikTakToe/Board/Board";
-
 function HomePage() {
   return (
     <main>
