@@ -27,7 +27,8 @@ a {
 a::after {
   content: "";
   position: absolute;
-  background-color: rgb(120, 120, 192);
+ /* background-color: rgb(120, 120, 192); */
+ background-color: rgb(255, 119, 203);
   height: 3px;
   width: 0;
   left: 0;
@@ -35,7 +36,8 @@ a::after {
   transition: 0.3s;
 }
 a:hover {
-  color: rgb(120, 120, 192);
+  color: rgb(255, 178, 226);
+  /* color: rgb(120, 120, 192); */
 }
 
 a:hover::after {
