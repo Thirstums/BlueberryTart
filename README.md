@@ -10,11 +10,10 @@ It showcases all projects Thirstums/ Thirsty has ever made and worked on
 ## In Progress Projects
 - BlueberryTart
 - Platify (AI Based playlist generator)
-- Inventory & Hud layout mod Minecraft
+- Ayumi-Sama AI (Assustant Ai that learns how to Play games and have Human converstations) (Neuron Network)
 
 ## Upcoming Projects
 - Built in Recepie Page (BlueberryTart addon)
-- Ayumi-Sama AI (Ai that learns how to Play games and have Human converstations) (Neuron Network)
 - Interactable jukeboxes that can play spotify playlist/songs and youtube links. (Minecraft mod)
 
 
